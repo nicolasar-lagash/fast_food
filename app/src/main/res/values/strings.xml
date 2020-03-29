@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Fast Food</string>
+
+    <!-- Main -->
+    <string name="opcion1_btn">Sandwiches</string>
+    <string name="opcion2_btn">Sobre nosotros</string>
+
+    <!-- Sandwiches -->
+    <string name="chacarero_btn">Chacarero</string>
+    <string name="barrosLuco_btn">Barros luco</string>
+    <string name="italiano_btn">Italiano</string>
+    <string name="cebollero_btn">Cebollero</string>
+    <string name="extraVegetal_btn">Extra vegetal</string>
+
+    <!-- About -->
+    <string name="descripcion_txt">
+        Somos una empresa de la región con más de 7 años
+        de experiencia realizando sandwiches! Los mejores
+        de la zona centro, si no mata, es Fast Food!
+    </string>
+
+    <!-- Detalle -->
+    <string name="nombreEjemplo_txt">Sandwich italiano</string>
+    <string name="descripcionEjemplo_txt">
+        Contiene 400 gramos de bistec de posta rosada. 2
+        paltas grandecita, tomate y mayonesa que reposan
+        sobre dos panes frica
+    </string>
+    <string name="precio_txt">$4500</string>
+
+    <!-- Descripciones -->
+    <string name="descripcionChacarero_txt">
+        Los infaltables porotos verdes, con unos tomates
+        bien jugosos hacen de este sandwich uno característico.
+        Además mayonesa a gusto y la infaltable carne vegetal.
+    </string>
+    <string name="descripcionBarrosLuco_txt">
+        Simple pero rico, nuestra receta secreta en carnes,
+        un queso mantecoso y si deseas le podemos agregar mayonesa.
+        No te quedas con hambre nica!
+    </string>
+    <string name="descripcionItaliano_txt">
+        Palta fresca, de la wena, con unas rodajas de tomate
+        pelado, además el pancito está súper crujiente,
+        no te olvides de nuestra carne jugosa pero vegetal!
+    </string>
+    <string name="descripcionCebollero_txt">
+        Nombre raro pero tan delicioso como el delicioso.
+        Para esos amantes de la cebolla, doble cebolla para ti.
+        Nuestra carne y queso derretido no fallan!
+    </string>
+    <string name="descripcionExtraVegetal_txt">
+        Si ya éramos vegetarianos, tenemos el doble de felicidad para ti.
+        Morron, un poco (poco) tomate y choclo acompañarán nuestra
+        exquisita carne con el pan recien tostado!
+    </string>
+</resources>
